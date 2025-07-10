@@ -10,23 +10,52 @@
 - For each visualization (good and bad):  
     - Explain (with reference to material covered up to date, along with readings and other scholarly sources, as needed) why you classified that visualization the way you did.
       ```
-      Your answer...
+      Your answer... 
+One of the worst examples of data visualisation for me would be this one:
 
+https://5cc2b83c.delivery.rocketcdn.me/app/uploads/bad-data-visualisation-treemap.png
+![datavisualisation](image.png)
 
-
-
-
+It's not logical, confusing, the visualization is redundant—while the treemap groups data visually, it still includes values that are hard to read, especially in the bottom-right corner, making them ineffective. Moreover, the continents aren’t arranged according to treemap logic, which subtly disrupts clarity.
+The color scheme is overly bright, making the visualization hard to read and distracting from the actual data;
 
 
       ```
     - How could this data visualization have been improved?  
       ```
-      Your answer...
+      To improve this visualization:
+      
+Add legend and a proper description
+Color Scheme: Use a more subdued, balanced palette for clarity.
+
+Text Readability: Increase font size and improve placement to avoid illegibility.
+
+Eliminate numeric values on the map and rely on area size to represent data.
+
+Grouping: Organize countries by continent and use consistent color coding.
+
+Labeling: Use larger, clearer labels for smaller countries.
+
+
+These changes would enhance clarity, ease of use, and effectiveness.
 
 
 
 
+Good data visualisation:
+Found  https://ourworldindata.org/cdn-cgi/imagedelivery/qLq-8BTgXU8yG0N6HnOy8g/e4e84f4e-74be-4d5a-2b70-693f82510800/w=1350
 
+The "Global Life Expectancy" visualization from Our World in Data is great for a few reasons:
+
+Clear and Easy to Read: It's super straightforward to understand. You can easily see how life expectancy differs across timeframes, thanks to clear labels and a simple layout.
+
+Color Coding: The use of colors  helps you quickly spot patterns. It makes the whole thing much more intuitive.
+
+Context: It gives you a timeline, so you can see how life expectancy has changed over the years. 
+
+Simple Design: There's no extra clutter. The focus is on the data, which makes it easier to follow.
+
+In short, it's a great visualization because it’s easy to understand, looks good, and lets you interact with the data in a meaningful way.
 
       
       ```
