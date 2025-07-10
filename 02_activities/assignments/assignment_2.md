@@ -10,7 +10,7 @@
 - For each visualization (good and bad):  
     - Explain (with reference to material covered up to date, along with readings and other scholarly sources, as needed) why you classified that visualization the way you did.
       ```
-      Your answer...
+      Your answer... 
 One of the worst examples of data visualisation for me would be this one:
 
 https://5cc2b83c.delivery.rocketcdn.me/app/uploads/bad-data-visualisation-treemap.png
@@ -24,7 +24,8 @@ The color scheme is overly bright, making the visualization hard to read and dis
     - How could this data visualization have been improved?  
       ```
       To improve this visualization:
-
+      
+Add legend and a proper description
 Color Scheme: Use a more subdued, balanced palette for clarity.
 
 Text Readability: Increase font size and improve placement to avoid illegibility.
@@ -42,15 +43,13 @@ These changes would enhance clarity, ease of use, and effectiveness.
 
 
 Good data visualisation:
-Found https://ourworldindata.org/life-expectancy as an example ( the website contains a lot of good data visualization sources;)
+Found  https://ourworldindata.org/cdn-cgi/imagedelivery/qLq-8BTgXU8yG0N6HnOy8g/e4e84f4e-74be-4d5a-2b70-693f82510800/w=1350
 
 The "Global Life Expectancy" visualization from Our World in Data is great for a few reasons:
 
-Clear and Easy to Read: It's super straightforward to understand. You can easily see how life expectancy differs across countries, thanks to clear labels and a simple layout.
+Clear and Easy to Read: It's super straightforward to understand. You can easily see how life expectancy differs across timeframes, thanks to clear labels and a simple layout.
 
-Color Coding: The use of colors (like red for low life expectancy and blue for high) helps you quickly spot patterns. It makes the whole thing much more intuitive.
-
-Interactive: You can hover over any country to see exact numbers, which makes it way more fun and allows you to dive deeper if you're curious.
+Color Coding: The use of colors  helps you quickly spot patterns. It makes the whole thing much more intuitive.
 
 Context: It gives you a timeline, so you can see how life expectancy has changed over the years. 
 
