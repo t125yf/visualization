@@ -8,22 +8,30 @@
 - Using Python and one other data visualization software (Excel or free alternative, Tableau Public, any other tool you prefer), create two distinct visualizations from your dataset of choice.  
 - For each visualization, describe and justify: 
     > What software did you use to create your data visualization?
-
+Excel,
     > Who is your intended audience? 
-    
+    Education leaders, school boards, and community groups who want to understand how literacy relates to university aspirations across neighborhoods.
+
     > What information or message are you trying to convey with your visualization? 
-    
+    The visualization aims to show the relationship (or dependency) between two educational indicators across neighborhoods in Toronto:
+
     > What aspects of design did you consider when making your visualization? How did you apply them? With what elements of your plots? 
-    
+    Kept the plot clear and simple by using labeled axes, a title, and a scatter plot with a regression line. Clean colors used and spacing to make the trend easy to see and understand.
+
     > How did you ensure that your data visualizations are reproducible? If the tool you used to make your data visualization is not reproducible, how will this impact your data visualization? 
-    
-    > How did you ensure that your data visualization is accessible?  
+     Firstly this was created in Excel and then in python, and i have obtained identical results therefore, the visualisation was reproducible;
     
     > Who are the individuals and communities who might be impacted by your visualization?  
-    
+    school leaders, teachers, policy makers
+
     > How did you choose which features of your chosen dataset to include or exclude from your visualization? 
-    
+     I included: Catholic School Litracy, Catolic Uni Applicants, 
+     excluded other variables, to keep
+    the visualisation focused and avoid clutter, aiming to clearly show relationship between these education indicators;
+
     > What ‘underwater labour’ contributed to your final data visualization product?
+
+Cleaned data, selected variables, ran regression, wrote and tested code, designed the plot, and ensured it’s reproducible.
 
 - This assignment is intentionally open-ended - you are free to create static or dynamic data visualizations, maps, or whatever form of data visualization you think best communicates your information to your audience of choice! 
 - Total word count should not exceed **(as a maximum) 1000 words** 
